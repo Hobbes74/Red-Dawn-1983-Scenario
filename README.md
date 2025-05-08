@@ -3,7 +3,7 @@ The aliens arrive during one of the heights of the Cold War, with Earth divided 
 Work in progress - the game is still on development, so expect bugs, crashes, broken saves, etc. And please report any bugs to the specific Steam or Discord threads.
 
 Includes:
-* Seven new player factions to replace the vanilla ones: Strategic Defense Initiative, Operation RYaN, UN Secretariat, New World Order, Third Front, Gladio and SETI;
+* Seven new player factions to replace the vanilla ones: Strategic Defense Initiative, Operation RYaN, UN Secretariat, New World Order, United Front, Gladio and Enterprise;
 * The nations and the bilateral relationships have been reset to the year of 1983, with the corresponding flags and names;
 * Starting armies increased and renamed, nuclear and space programs also reset to the 1980s;
 * 250+ historical organizations: KGB, FEMA, NASA, Stasi, Spetsnaz, Pravda, TASS, MiG, Sukhoi, Tupolev and others;

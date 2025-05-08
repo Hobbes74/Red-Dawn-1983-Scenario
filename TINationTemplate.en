@@ -335,7 +335,7 @@ TINationTemplate.displayNameWithArticle.MLI=the Republic of Mali
 TINationTemplate.nationAdjective.MLI=Malian
 TINationTemplate.displayNameWithArticlePrep.MLI=in Mali
 TINationTemplate.displayName.MMR=Burma
-TINationTemplate.displayNameWithArticle.MMR=the Union of Burma
+TINationTemplate.displayNameWithArticle.MMR=the Socialist Republic of the Union of Burma
 TINationTemplate.nationAdjective.MMR=Burmese
 TINationTemplate.displayNameWithArticlePrep.MMR=in Burma
 TINationTemplate.displayName.MNC=Guandong
@@ -363,7 +363,7 @@ TINationTemplate.displayNameWithArticle.NER=the Republic of the Niger
 TINationTemplate.nationAdjective.NER=Nigerien
 TINationTemplate.displayNameWithArticlePrep.NER=in Niger
 TINationTemplate.displayName.NET=Netherlands
-TINationTemplate.displayNameWithArticle.NET=the KIngdom of the Netherlands
+TINationTemplate.displayNameWithArticle.NET=the Kingdom of the Netherlands
 TINationTemplate.nationAdjective.NET=Dutch
 TINationTemplate.displayNameWithArticlePrep.NET=in the Netherlands
 TINationTemplate.displayName.NGA=Nigeria
@@ -694,10 +694,10 @@ TINationTemplate.unionDisplayNameWithArticle.EUA=the European Economic Community
 TINationTemplate.unionAdjective.EUA=European
 TINationTemplate.unionDisplayNameWithArticlePrep.EUA=in the European Economic Community
 
-TINationTemplate.unionDisplayName.BEN=Western Alliance
-TINationTemplate.unionDisplayNameWithArticle.BEN=the Western Alliance
-TINationTemplate.unionAdjective.BEN=European
-TINationTemplate.unionDisplayNameWithArticlePrep.BEN=in the Western Alliance
+TINationTemplate.unionDisplayName.BGM=Western Alliance
+TINationTemplate.unionDisplayNameWithArticle.BGM=the Western Alliance
+TINationTemplate.unionAdjective.BGM=European
+TINationTemplate.unionDisplayNameWithArticlePrep.BGM=in the Western Alliance
 
 TINationTemplate.unionDisplayName.WGA=Pan-Europa
 TINationTemplate.unionDisplayNameWithArticle.WGA=Pan-Europa
@@ -939,7 +939,7 @@ TINationTemplate.nationAdjective.SBK=Albanian
 TINationTemplate.displayNameWithArticlePrep.SBK=in Albania
 
 TINationTemplate.unionDisplayName.SER=Yugoslavia
-TINationTemplate.unionDisplayNameWithArticle.SBK=Socialist Federal Republic of Yugoslavia
+TINationTemplate.unionDisplayNameWithArticle.SER=Socialist Federal Republic of Yugoslavia
 TINationTemplate.unionAdjective.SER=Yugoslav
 TINationTemplate.unionDisplayNameWithArticlePrep.SER=in Yugoslavia
 
@@ -1058,8 +1058,10 @@ TINationTemplate.displayNameWithArticle.BGM=the Kingdom of Belgium
 TINationTemplate.nationAdjective.BGM=Belgian
 TINationTemplate.displayNameWithArticlePrep.BGM=in Belgium
 
+
+
 TINationTemplate.displayName.COR=Republic of the Congo
-TINationTemplate.displayNameWithArticle.COR=the Republic of the Congo
+TINationTemplate.displayNameWithArticle.COR=the People's Republic of the Congo
 TINationTemplate.nationAdjective.COR=Congolese
 TINationTemplate.displayNameWithArticlePrep.COR=in the Republic of the Congo
 
@@ -1083,10 +1085,10 @@ TINationTemplate.displayNameWithArticle.GWA=Gwalior
 TINationTemplate.nationAdjective.GWA=Gwalior
 TINationTemplate.displayNameWithArticlePrep.GWA=in Gwalior
 
-TINationTemplate.displayName.HYD=Hyderabad
-TINationTemplate.displayNameWithArticle.HYD=Hyderabad
-TINationTemplate.nationAdjective.HYD=Hyderabad
-TINationTemplate.displayNameWithArticlePrep.HYD=in Hyderabad
+TINationTemplate.displayName.HYD=Naxalbari
+TINationTemplate.displayNameWithArticle.HYD=Naxalbari
+TINationTemplate.nationAdjective.HYD=Naxalbari
+TINationTemplate.displayNameWithArticlePrep.HYD=in Naxalbari
 
 TINationTemplate.displayName.JAI=Jaipur
 TINationTemplate.displayNameWithArticle.JAI=Jaipur
@@ -1179,7 +1181,7 @@ TINationTemplate.nationAdjective.LEB=Lebanese
 TINationTemplate.displayNameWithArticlePrep.LEB=in Lebanon
 
 TINationTemplate.displayName.GIN=Guinea-Guinea-Bissau
-TINationTemplate.displayNameWithArticle.GIN=Guinea-Guinea-Bissau
+TINationTemplate.displayNameWithArticle.GIN=Republic of Guinea-Bissau
 TINationTemplate.nationAdjective.GIN=Guinean
 TINationTemplate.displayNameWithArticlePrep.GIN=in Guinea-Guinea-Bissau
 

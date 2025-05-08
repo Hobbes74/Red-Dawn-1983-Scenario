@@ -1,0 +1,120 @@
+[
+ {
+   "dataName": "FreedomSpaceStation",
+   "friendlyName": "Freedom Space Station",
+   "habType": "Station",
+   "tier": 1,
+   "habSite": "",
+   "alien": false,
+   "orbitTemplateName": "LowEarthOrbit4",
+   "meanAnomalyAtEpoch_Deg": 312.374,
+   "epoch_floatJYears": 2021.4767,
+   "sectors": [
+      {
+         "faction": "ResistCouncil",
+         "habModuleNames": [
+            "PlatformCore",
+            "",
+            "",
+            "",
+            ""
+         ]
+      },
+      {
+         "faction": "",
+         "habModuleNames": [
+            "",
+            "",
+            "",
+            ""
+         ]
+      },
+      {
+         "faction": "",
+         "habModuleNames": [
+            "",
+            "",
+            "",
+            ""
+         ]
+      },
+      {
+         "faction": "",
+         "habModuleNames": [
+            "",
+            "",
+            "",
+            ""
+         ]
+      },
+      {
+         "faction": "",
+         "habModuleNames": [
+            "",
+            "",
+            "",
+            ""
+         ]
+      }
+   ]
+},
+ {
+   "dataName": "Salyut7",
+   "friendlyName": "Salyut 7",
+   "habType": "Station",
+   "tier": 1,
+   "habSite": "",
+   "alien": false,
+   "orbitTemplateName": "LowEarthOrbit3",
+   "meanAnomalyAtEpoch_Deg": 40.7074,
+   "epoch_floatJYears": 2021.4767,
+   "sectors": [
+      {
+         "faction": "ExploitCouncil",
+         "habModuleNames": [
+            "PlatformCore",
+            "",
+            "",
+            "",
+            ""
+         ]
+      },
+      {
+         "faction": "",
+         "habModuleNames": [
+            "",
+            "",
+            "",
+            ""
+         ]
+      },
+      {
+         "faction": "",
+         "habModuleNames": [
+            "",
+            "",
+            "",
+            ""
+         ]
+      },
+      {
+         "faction": "",
+         "habModuleNames": [
+            "",
+            "",
+            "",
+            ""
+         ]
+      },
+      {
+         "faction": "",
+         "habModuleNames": [
+            "",
+            "",
+            "",
+            ""
+         ]
+      }
+   ]
+}
+]

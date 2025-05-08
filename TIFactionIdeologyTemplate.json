@@ -24,7 +24,7 @@
    "initialReactionGroup": 0,
    "ideology": "Destroy",
    "ideologyCoordinates": {
-      "x": 2,
+      "x": 1,
       "y": 1,
       "z": 0
    }
@@ -50,12 +50,12 @@
    "undecided": false,
    "sortOrder": 1,
    "willProxy": 1,
-   "willAppease": 2,
+   "willAppease": 1,
    "initialReactionGroup": 0,
    "ideology": "Submit",
    "ideologyCoordinates": {
       "x": -2,
-      "y": -1,
+      "y": 1,
       "z": 0
    }
 },
@@ -64,13 +64,13 @@
    "alien": false,
    "undecided": false,
    "sortOrder": 5,
-   "willProxy": 2,
+   "willProxy": 1,
    "willAppease": 1,
    "initialReactionGroup": 2,
    "ideology": "Appease",
    "ideologyCoordinates": {
-      "x": -1.5,
-      "y": 1,
+      "x": -2,
+      "y": -1,
       "z": 0
    }
 },

@@ -1,0 +1,100 @@
+[
+ {
+   "dataName": "Ceres",
+   "friendlyName": "Ceres",
+   "friendlyDiameter": 965.2,
+   "modelResource": "planets/Ceres",
+   "modelScale": 20,
+   "symbolTexture": "icons_2d/ICO_Ceres",
+   "barycenterName": "Sol",
+   "objectType": "Asteroid",
+   "effectToExplore": "Effect_ExploreAsteroids",
+   "irradiatedMultiplier": 1,
+   "atmosphere": "None",
+   "semiMajorAxis_AU": 2.7675,
+   "eccentricity": 0.075823,
+   "inclination_Deg": 10.593,
+   "longAscendingNode_Deg": 80.3293,
+   "argPeriapsis_Deg": 72.522,
+   "meanAnomalyAtEpoch_Deg": 77.372,
+   "epoch_floatJYears": 2019.32,
+   "equatorialRadius_km": 482.6,
+   "oblateness": 0.068,
+   "mass_kg": 939300000000000000000,
+   "density_gcm3": 2.16,
+   "rotationPeriod_strHours": "9.07417",
+   "tilt_Deg": 4,
+   "Hill Radius in km": 206612.49,
+   "Hill radius pass-fail": "206612.49",
+   "angularDiameterMultiplier": 1,
+   "maxHabSize": 4,
+   "numAltModels": 0,
+   "orbits": [
+      "LowCeresOrbit",
+      "MediumCeresOrbit",
+      "HighCeresOrbit"
+   ],
+   "habSites": [
+      "CeresSite1",
+      "CeresSite2",
+      "CeresSite3",
+      "CeresSite4"
+   ],
+   "altModels": [
+      {},
+      {}
+   ]
+},
+ {
+   "dataName": "Pluto",
+   "friendlyName": "Pluto",
+   "friendlyDiameter": 2379.8,
+   "modelResource": "planets/Pluto",
+   "modelScale": 20,
+   "symbolTexture": "icons_2d/ICO_Pluto",
+   "barycenterName": "Sol",
+   "objectType": "Planet",
+   "effectToExplore": "Effect_ExploreOuterPlanets",
+   "irradiatedMultiplier": 1,
+   "atmosphere": "Trace",
+   "semiMajorAxis_AU": 39.48,
+   "eccentricity": 0.2488,
+   "inclination_Deg": 17.16,
+   "longAscendingNode_Deg": 110.299,
+   "argPeriapsis_Deg": 113.834,
+   "meanAnomalyAtEpoch_Deg": 14.53,
+   "epoch_floatJYears": 2000,
+   "meanRadius_km": 1189.9,
+   "oblateness": 0,
+   "mass_kg": 1.303e+22,
+   "density_gcm3": 1.86,
+   "rotationPeriod_strHours": "153.282",
+   "tilt_Deg": 122.53,
+   "Hill Radius in km": 5756517.98,
+   "Hill radius pass-fail": "5756517.98",
+   "angularDiameterMultiplier": 1,
+   "atmosphereScaleHeight_km": 50,
+   "maxHabSize": 4,
+   "numAltModels": 0,
+   "orbits": [
+      "LowPlutoOrbit",
+      "MediumPlutoOrbit",
+      "HighPlutoOrbit"
+   ],
+   "habSites": [
+      "PlutoSite1",
+      "PlutoSite2",
+      "PlutoSite3",
+      "PlutoSite4",
+      "PlutoSite5",
+      "PlutoSite6",
+      "PlutoSite7",
+      "PlutoSite8",
+      "PlutoSite9"
+   ],
+   "altModels": [
+      {},
+      {}
+   ]
+}
+]

@@ -1,5 +1,36 @@
 [
  {
+   "friendlyName": "ExploitVictory",
+   "dataName": "Project_ExploitVictory",
+   "techCategory": "Xenology",
+   "AI_techRole": "FactionObjective",
+   "AI_criticalTech": true,
+   "AI_projectRole": "Objective",
+   "researchCost": 2500,
+   "prereqs": [
+      "Project_Pherocytes"
+   ],
+   "effects": [
+      "Effect_ControlPointMaintenanceBonus40"
+   ],
+   "oneTimeGlobally": false,
+   "repeatable": false,
+   "factionPrereq": [
+      "ExploitCouncil"
+   ],
+   "factionAvailableChance": 100,
+   "initialUnlockChance": 100,
+   "deltaUnlockChance": 0,
+   "maxUnlockChance": 100,
+   "orgGranted": "SMERSH",
+   "resourcesGranted": [
+      {
+         "resource": "Influence",
+         "value": 100
+      }
+   ]
+},
+ {
    "friendlyName": "ResistVictory",
    "dataName": "Project_ResistVictory",
    "techCategory": "Xenology",
@@ -31,6 +62,37 @@
    ]
 },
  {
+   "friendlyName": "DestroyVictory",
+   "dataName": "Project_DestroyVictory",
+   "techCategory": "Xenology",
+   "AI_techRole": "FactionObjective",
+   "AI_criticalTech": true,
+   "AI_projectRole": "Objective",
+   "researchCost": 2500,
+   "prereqs": [
+      "Project_TheirMethods"
+   ],
+   "effects": [
+      "Effect_ControlPointMaintenanceBonus40"
+   ],
+   "oneTimeGlobally": false,
+   "repeatable": false,
+   "factionPrereq": [
+      "DestroyCouncil"
+   ],
+   "factionAvailableChance": 100,
+   "initialUnlockChance": 100,
+   "deltaUnlockChance": 0,
+   "maxUnlockChance": 100,
+   "orgGranted": "Wolverines",
+   "resourcesGranted": [
+      {
+         "resource": "Ops",
+         "value": 100
+      }
+   ]
+},
+ {
    "friendlyName": "Pan-Europa",
    "dataName": "Project_PanEuropa",
    "techCategory": "SocialScience",
@@ -57,60 +119,6 @@
    "oneTimeGlobally": true,
    "repeatable": false,
    "requiresNation": "WGA",
-   "requiredControlPoint": [
-      "",
-      ""
-   ],
-   "factionPrereq": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-   ],
-   "factionAvailableChance": 100,
-   "factionAlways": "",
-   "initialUnlockChance": 10,
-   "deltaUnlockChance": 10,
-   "maxUnlockChance": 100,
-   "orgGranted": "",
-   "resourcesGranted": [
-      {
-         "resource": "",
-         "value": null
-      }
-   ],
-   "iconResource": "",
-   "completedIllustrationPath": ""
-},
- {
-   "friendlyName": "Scramble For Africa",
-   "dataName": "Project_ScrambleForAfrica",
-   "techCategory": "SocialScience",
-   "AI_techRole": "EarthPolitics",
-   "AI_criticalTech": null,
-   "AI_projectRole": "ExpandNation",
-   "researchCost": 25000,
-   "prereqs": [
-      "UnityMovements",
-      "",
-      "",
-      "",
-      ""
-   ],
-   "altPrereq0": "",
-   "requiredObjectiveName": "",
-   "altRequiredObjectiveName": "",
-   "requiredMilestone": "",
-   "effects": [
-      "",
-      "",
-      ""
-   ],
-   "oneTimeGlobally": true,
-   "repeatable": false,
-   "requiresNation": "",
    "requiredControlPoint": [
       "",
       ""
@@ -299,5 +307,24 @@
    ],
    "iconResource": "",
    "completedIllustrationPath": ""
+},
+ {
+   "friendlyName": "European Union",
+   "dataName": "Project_EuropeanUnion",
+   "techCategory": "SocialScience",
+   "AI_techRole": "EarthPolitics",
+   "AI_projectRole": "ExpandNation",
+   "researchCost": 2500,
+   "prereqs": [
+      "ArrivalInternationalRelations"
+   ],
+   "oneTimeGlobally": true,
+   "repeatable": false,
+   "requiresNation": "EUA",
+   "factionAvailableChance": 100,
+   "initialUnlockChance": 0,
+   "deltaUnlockChance": 5,
+   "maxUnlockChance": 50,
+   "resourcesGranted": []
 }
 ]

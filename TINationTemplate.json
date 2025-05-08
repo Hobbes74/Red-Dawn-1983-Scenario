@@ -839,7 +839,7 @@
    "dataName": "BGM",
    "flagResource": "nationflags/Belgium",
    "unionFlagResource": "1983/westernalliance",
-   "unionTrigger": 3,
+   "unionTrigger": 2,
    "color32": {
       "r": 192,
       "g": 184,
@@ -3169,7 +3169,7 @@
    "dataName": "EUA",
    "flagResource": "nationflags/France",
    "unionFlagResource": "nationflags/European_Union",
-   "unionTrigger": 2,
+   "unionTrigger": 6,
    "color32": {
       "r": 135,
       "g": 206,
@@ -4152,7 +4152,7 @@
  {
    "friendlyName": "Hyderabad",
    "dataName": "HYD",
-   "flagResource": "nationflags/Hyderabad",
+   "flagResource": "1983/naxalbari1983",
    "color32": {
       "r": 157,
       "g": 225,
@@ -6447,7 +6447,7 @@
  {
    "friendlyName": "Myanmar",
    "dataName": "MMR",
-   "flagResource": "nationflags/Myanmar",
+   "flagResource": "1983/burma1983",
    "color32": {
       "r": 52,
       "g": 178,
@@ -6554,7 +6554,6 @@
    "friendlyName": "Netherlands",
    "dataName": "NET",
    "flagResource": "nationflags/Netherlands",
-   "unionFlagResource": "1983/westernalliance",
    "color32": {
       "r": 232,
       "g": 94,
@@ -8045,7 +8044,7 @@
  {
    "friendlyName": "Republic of the Congo",
    "dataName": "COR",
-   "flagResource": "nationflags/Rep_Congo",
+   "flagResource": "1983/congo1983",
    "color32": {
       "r": 20,
       "g": 255,
@@ -9370,7 +9369,7 @@
  {
    "friendlyName": "South Yemen",
    "dataName": "YMS",
-   "flagResource": "nationflags/South_Yemen",
+   "flagResource": "1983/southyemen1983",
    "color32": {
       "r": 157,
       "g": 157,
@@ -10227,7 +10226,7 @@
  {
    "friendlyName": "Togo-Benin",
    "dataName": "BEN",
-   "flagResource": "nationflags/Benin",
+   "flagResource": "1983/benin1983",
    "color32": {
       "r": 255,
       "g": 88,
@@ -11087,7 +11086,6 @@
    "aggregateNation": null,
    "initialGDP": 4637567440000,
    "popGrowthModifier": -1,
-   "initialFactionStr": "",
    "cohesion": 4,
    "unrest": 1,
    "inequality": 3.17,

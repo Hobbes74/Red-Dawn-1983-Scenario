@@ -1,0 +1,11 @@
+TISpaceBodyTemplate.displayName.Ceres=Ceres
+TISpaceBodyTemplate.bodyAltName.Ceres=1 Ceres
+TISpaceBodyTemplate.classification.Ceres=Asteroid
+TISpaceBodyTemplate.descriptor1.Ceres=Main Belt Asteroid
+TISpaceBodyTemplate.descriptor2.Ceres=Volatile-Rich Regolith
+TISpaceBodyTemplate.displayName.Pluto=Pluto
+TISpaceBodyTemplate.bodyAltName.Pluto=Sol IX
+TISpaceBodyTemplate.classification.Pluto=Planet
+TISpaceBodyTemplate.descriptor1.Pluto=Outer Planet
+TISpaceBodyTemplate.descriptor2.Pluto=Volatile-Rich Regolith
+TISpaceBodyTemplate.discovery_year.Pluto=1930
